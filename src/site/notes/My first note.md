@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/my-first-note/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/my-first-note/"}
 ---
 
 
@@ -30,3 +30,5 @@ section Another
 	Task in Another :2014-01-12, 12d
 	another task    :24d
 ```
+
+[[1-1 Print\|1-1 Print]]
