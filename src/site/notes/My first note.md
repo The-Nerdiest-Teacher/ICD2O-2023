@@ -14,4 +14,6 @@
  let y = 2
  let z = x * y
  print(z)
- ```![chat.jpg](/img/user/Attachments/chat.jpg) 
+ ```
+
+![chat.jpg](/img/user/Attachments/chat.jpg) 
